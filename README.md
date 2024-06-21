@@ -11,5 +11,4 @@
 5. HotFix-Branch : (Master-Branch -> HotFix-Branch) 운영 환경에서 발견된 긴급한 버그를 수정해야할 때 Master-Branch에서 HotFix-Branch 생성. 수정 후 Master, Develop-Branch에 병합.
 
 # Code Convention
-1. PascalCase
-  - ![스크린샷 2024-06-21 오후 8 23 27](https://github.com/shwhdgns/Huge-Traffic-Handling/assets/55942478/d4df56ce-6563-492e-b597-bbd13ebf4faa)
+![스크린샷 2024-06-21 오후 8 23 27](https://github.com/shwhdgns/Huge-Traffic-Handling/assets/55942478/d4df56ce-6563-492e-b597-bbd13ebf4faa)
