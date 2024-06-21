@@ -12,3 +12,10 @@
 
 # Code Convention
 ![스크린샷 2024-06-21 오후 8 23 27](https://github.com/shwhdgns/Huge-Traffic-Handling/assets/55942478/d4df56ce-6563-492e-b597-bbd13ebf4faa)
+
+# 시퀀스
+![게시글 등록 시퀀스](https://github.com/shwhdgns/Huge-Traffic-Handling/assets/55942478/56520d0c-37f0-45bf-b9e2-b6c9b7ef5752)
+![게시글 검색 시퀀스](https://github.com/shwhdgns/Huge-Traffic-Handling/assets/55942478/fddc3e3d-99dc-484c-b454-621354a2708a)
+
+# ERD
+![스크린샷 2024-06-21 오후 8 53 42](https://github.com/shwhdgns/Huge-Traffic-Handling/assets/55942478/90894ac1-fdeb-43da-881c-b83a59d0a702)
